@@ -24,7 +24,7 @@ A modern and feature-rich **ToDo App** built with Flutter to help users manage t
 
 ## Screenshots
 *(Add your app screenshots here to showcase the UI)*  
-```
+
 ## 🚀 How to Run the Project
 
 1. **Clone the repository**  
