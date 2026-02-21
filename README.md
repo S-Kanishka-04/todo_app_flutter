@@ -45,8 +45,7 @@ flutter pub get
 flutter run
 ```
 ## Technologies Used 
-
-Flutter – Frontend framework
-Dart – Programming language
-SharedPreferences – Local storage for persistent tasks
+- **Flutter – Frontend framework**
+- **Dart – Programming language**
+- **SharedPreferences – Local storage for persistent tasks**
 
