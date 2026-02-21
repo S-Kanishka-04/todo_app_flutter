@@ -25,18 +25,3 @@ A modern and feature-rich **ToDo App** built with Flutter to help users manage t
 ## Screenshots
 *(Add your app screenshots here to showcase the UI)*  
 ```
-## 🚀 How to Run the Project
-1. Clone the repository:  
-   ```bash
-  git clone <your-repo-url>
-2. Navigate to the project directory:
-   ```bash
-   cd todo_app_flutter
-3. Get dependencies
-   ```bash
-   flutter pub get
-4. Run the app
-   ```bash
-   flutter run
-
-## 🎯 Output Categories
