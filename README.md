@@ -35,3 +35,16 @@ cd todo_app_flutter
 flutter pub get
 4. Run the app
 flutter run
+```
+
+## 🚀 How to Run the Project
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/BMI-Calculator.git
+2. Open the project folder:
+   ```bash
+   cd BMI-Calculator
+3. Open index.html in your browser
+
+## 🎯 Output Categories
