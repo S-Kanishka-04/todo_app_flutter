@@ -31,13 +31,16 @@ A modern and feature-rich **ToDo App** built with Flutter to help users manage t
 git clone <your-repo-url>
 
 2. Navigate to the project directory:
+
 ```bash
 cd todo_app_flutter
 
 3. Get dependencies:
+
 ```bash
 flutter pub get
 
 4. Run the app:
+
 ```bash
 flutter run
