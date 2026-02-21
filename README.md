@@ -30,6 +30,7 @@ A modern and feature-rich **ToDo App** built with Flutter to help users manage t
 1. **Clone the repository**  
 ```bash
 git clone <your-repo-url>
-2. Navigate to the project directory
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. **Navigate to the project directory**
 ```bash
 cd todo_app_flutter
