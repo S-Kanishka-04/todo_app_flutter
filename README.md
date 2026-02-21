@@ -43,3 +43,10 @@ flutter pub get
 4. **Run the app**
 ```bash
 flutter run
+```
+## Technologies Used 
+
+Flutter – Frontend framework
+Dart – Programming language
+SharedPreferences – Local storage for persistent tasks
+
