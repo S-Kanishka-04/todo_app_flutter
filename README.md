@@ -1,16 +1,31 @@
-# flutter_application_1
+# Flutter ToDo App 📝
 
-A new Flutter project.
+A modern and feature-rich **ToDo App** built with Flutter to help users manage their tasks efficiently with a clean UI and smooth interactions.  
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+### ✅ Core Features
+- **Priority Colors:** Quickly identify tasks using color codes — High (Red), Medium (Orange), Low (Green).  
+- **Due Date Picker:** Set deadlines for your tasks.  
+- **Search Bar:** Instantly find tasks by title.  
+- **Sort & Filter:** Organize tasks based on priority, due date, or completion status.  
+- **Daily Progress Bar:** Visual representation of daily task completion.  
+- **Persistent Storage:** Tasks are saved permanently using **SharedPreferences**.  
+- **Task Counter:** Track the total number of tasks.  
+- **Animated Checkbox:** Smooth animations when marking tasks as done.  
 
-A few resources to get you started if this is your first Flutter project:
+### ✨ UI/UX Enhancements
+- **Gradient Background:** Modern and visually appealing background.  
+- **Greeting Section:** Personalized greeting based on the time of day.  
+- **Rounded White Container:** Sleek container design for better focus on tasks.  
+- **Shadowed Task Cards:** Adds depth and separation for task items.  
+- **Better Typography:** Clear and readable fonts for improved usability.  
+- **Modern Feel:** Clean layout and intuitive user interface.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+*(Add your app screenshots here to showcase the UI)*  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+1. Clone the repository:  
+```bash
+git clone <your-repo-url>
