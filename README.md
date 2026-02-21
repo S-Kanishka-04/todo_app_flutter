@@ -24,27 +24,19 @@ A modern and feature-rich **ToDo App** built with Flutter to help users manage t
 
 ## Screenshots
 *(Add your app screenshots here to showcase the UI)*  
-
-## Installation
-1. Clone the repository:  
-```bash
-git clone <your-repo-url>
-2. Navigate to the project directory
-cd todo_app_flutter
-3. Get dependencies
-flutter pub get
-4. Run the app
-flutter run
 ```
-
 ## 🚀 How to Run the Project
-
-1. Clone this repository:
+1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/BMI-Calculator.git
-2. Open the project folder:
+  git clone <your-repo-url>
+2. Navigate to the project directory:
    ```bash
-   cd BMI-Calculator
-3. Open index.html in your browser
+   cd todo_app_flutter
+3. Get dependencies
+   ```bash
+   flutter pub get
+4. Run the app
+   ```bash
+   flutter run
 
 ## 🎯 Output Categories
