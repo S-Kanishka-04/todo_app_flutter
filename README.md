@@ -1,6 +1,12 @@
 # Flutter ToDo App 📝
 
-A modern and feature-rich **ToDo App** built with Flutter to help users manage their tasks efficiently with a clean UI and smooth interactions.  
+A modern and feature-rich **ToDo App** built with Flutter to help users manage their tasks efficiently with a clean UI and smooth interactions. 
+
+## 🎥 Demo Video
+
+Click below to watch the app in action 👇 
+
+https://github.com/user-attachments/assets/440ff934-af24-41b0-86ca-331aa3f10c0c
 
 ## Features
 
